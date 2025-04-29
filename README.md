@@ -22,5 +22,7 @@ Question?
 ● What is the status of the orders?
 
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-1.png"> Dashboard page 1</a>
+
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-2.png"> Dashboard page 2</a>
+
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-3.png"> Dashboard page 3</a>

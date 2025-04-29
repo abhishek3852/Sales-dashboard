@@ -23,7 +23,9 @@ Question?
 
 Dashboard page 1
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-1.png"> Dashboard page 1 </a>
+
 Dashboard page 2
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-2.png"> Dashboard page 2 </a>
+
 Dashboard page 3
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-3.png"> Dashboard page 3 </a>

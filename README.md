@@ -1,4 +1,4 @@
-> **# Sales-Dashboard and Forecasting (Interactive dashboard creation by Power BI)**
+**# Sales-Dashboard and Forecasting (Interactive dashboard creation by Power BI)**
 
 I have created an intermediate-level comprehensive dashboard in Power BI using multiple graphs and charts. The dashboard was developed in various stages, including sourcing data from Kaggle, performing data modelling, and generating insights.
 
@@ -34,3 +34,5 @@ Dataset used
 Visualisation tool:
 
 Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposition tree, Stacked Bar Chart
+
+

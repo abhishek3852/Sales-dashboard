@@ -10,8 +10,13 @@ Dataset used
 Question?
 
 ● What is the number of orders per product line?
+
 ● Which country has the highest total sales?
+
 ● What are the forecasted sales for the next six months?
+
 ● What is the overall sales trend over time?
+
 ● Is there a relationship between order volume and the number of customers in each country?
+
 ● What is the status of the orders?

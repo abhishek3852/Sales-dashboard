@@ -40,11 +40,11 @@ Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposi
 
 Top 3 most ordered products:
 
-  Classic Cars
+  Classic Cars-   12.1K
 
-  Vintage Cars
+  Vintage Cars - 8.1K
 
-  Motorcycles
+  Motorcycles - 5.1K
 
 Peak sales month:
 
@@ -52,7 +52,7 @@ Sales peaked in November, indicating strong seasonality.
 
 Most sold product:
 
-Classic Cars had the highest number of sales overall.
+Classic Cars had the highest number of sales overall of 3.92 million.
 
 Forecasted sales for the next six months (in units/currency):
 
@@ -76,7 +76,7 @@ Top 3 countries by number of orders:
 
   France – 11K orders
 
-Top 3 countries with the most customers:
+Top 3 countries with the most customers by dealsize:
 
   United States
 

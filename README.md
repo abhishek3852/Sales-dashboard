@@ -5,7 +5,7 @@ I have created an intermediate-level comprehensive dashboard in Power BI using m
 **Project Objective**
 The project aims to strengthen my Power BI skills by working through each stage of dashboard creation. I created this project to learn how to use the advanced chart option and forecast data.
 
-**Dataset used **
+Dataset used
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/sales_data_sample.csv"> Sample sales data</a>
 
 **Question?**
@@ -30,3 +30,6 @@ The project aims to strengthen my Power BI skills by working through each stage 
 
 **Dashboard page 3**
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-3.png"> Dashboard page 3 </a>
+
+Visualisation tool used
+Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposition tree, Stacked Bar Chart

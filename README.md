@@ -1,13 +1,14 @@
 **# Sales-Dashboard and Forecasting (Interactive dashboard creation by Power BI)**
+
 I have created an intermediate-level comprehensive dashboard in Power BI using multiple graphs and charts. The dashboard was developed in various stages, including sourcing data from Kaggle, performing data modelling, and generating insights.
 
 **Project Objective**
 The project aims to strengthen my Power BI skills by working through each stage of dashboard creation. I created this project to learn how to use the advanced chart option and forecast data.
 
-Dataset used 
+**Dataset used **
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/sales_data_sample.csv"> Sample sales data</a>
 
-Question?
+**Question?**
 
 ● What is the number of orders per product line?
 
@@ -21,11 +22,11 @@ Question?
 
 ● What is the status of the orders?
 
-Dashboard page 1
+**Dashboard page 1**
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-1.png"> Dashboard page 1 </a>
 
-Dashboard page 2
+**Dashboard page 2**
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-2.png"> Dashboard page 2 </a>
 
-Dashboard page 3
+**Dashboard page 3**
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-3.png"> Dashboard page 3 </a>

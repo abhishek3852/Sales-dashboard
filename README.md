@@ -70,4 +70,10 @@ The top 3 countries with the most orders were:
 
   France - 11K
 
- 
+ The top 3 countries from which the major customers were:
+
+ America
+
+ France
+
+ Australia

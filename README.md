@@ -31,5 +31,6 @@ Dataset used
 **Dashboard page 3**
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-3.png"> Dashboard page 3 </a>
 
-Visualisation tool used
+Visualisation tool:
+
 Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposition tree, Stacked Bar Chart

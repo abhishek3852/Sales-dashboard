@@ -7,4 +7,10 @@ The project aims to strengthen my Power BI skills by working through each stage 
 Dataset used 
 <a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/sales_data_sample.csv"> Sample sales data</a>
 
-
+Question?
+What is the number of orders per product line?
+Which country has the highest total sales?
+What are the forecasted sales for the next six months?
+What is the overall sales trend over time?
+Is there a relationship between order volume and the number of customers in each country?
+What is the status of the orders?

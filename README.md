@@ -36,26 +36,38 @@ Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposi
 ![DASH-3](https://github.com/user-attachments/assets/a62ca134-2e61-4974-b81d-a7fc5dbff7b1)
 
 **Project insight**
- The classic car was ordered by the majority of customers as its order size was highest, followed by Vintage Cars, followed by Motorcycle.
+ The top 3 ordered products were :
+ 
+   Classic cars
+
+   Vintage cars
+
+   Motorcylce
 
  As analysed that the major sales were in November.
 
 The most sold car was the classic car.
 
-The forecasted sales for the next month were:
+The forecasted sales for the next Half-Year were:
 
-379328.71812176367
+  379328.71812176367
 
-409898.3858489428
+  409898.3858489428
 
-485743.10913079453
+  485743.10913079453
 
-438794.0634565185
+  438794.0634565185
 
-706982.856901615
+  706982.856901615
 
-1209498.5160784384
+  1209498.5160784384
 
+The top 3 countries with the most orders were:
 
+  America - 36K
+
+  Spain - 12K
+
+  France - 11K
 
  

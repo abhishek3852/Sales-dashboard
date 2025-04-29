@@ -35,44 +35,63 @@ Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposi
 ![DASH-2](https://github.com/user-attachments/assets/6522a386-4ed9-4d01-8c10-e8fbc603a316)
 ![DASH-3](https://github.com/user-attachments/assets/a62ca134-2e61-4974-b81d-a7fc5dbff7b1)
 
-**Project insight**
- The top 3 ordered products were :
- 
-   Classic cars
 
-   Vintage cars
+**Project Insights**
 
-   Motorcylce
+Top 3 most ordered products:
 
- As analysed that the major sales were in November.
+  Classic Cars
 
-The most sold car was the classic car.
+  Vintage Cars
 
-The forecasted sales for the next Half-Year were:
+  Motorcycles
 
-  379328.71812176367
+Peak sales month:
 
-  409898.3858489428
+Sales peaked in November, indicating strong seasonality.
 
-  485743.10913079453
+Most sold product:
 
-  438794.0634565185
+Classic Cars had the highest number of sales overall.
 
-  706982.856901615
+Forecasted sales for the next six months (in units/currency):
 
-  1209498.5160784384
+  Month 1: 379,328.72
 
-The top 3 countries with the most orders were:
+  Month 2: 409,898.39
 
-  America - 36K
+  Month 3: 485,743.11
 
-  Spain - 12K
+  Month 4: 438,794.06
 
-  France - 11K
+  Month 5: 706,982.86
 
- The top 3 countries from which the major customers were:
+Month 6: 1,209,498.52
 
- America
+Top 3 countries by number of orders:
+
+  United States – 36K orders
+
+  Spain – 12K orders
+
+  France – 11K orders
+
+Top 3 countries with the most customers:
+
+  United States
+
+  France
+
+  Australia
+
+Order fulfilment status:
+
+  92.3% of orders were shipped
+
+  2.1% were cancelled
+
+  1.9% were placed on hold
+
 
  France
 

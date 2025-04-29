@@ -76,7 +76,7 @@ Top 3 countries by number of orders:
 
   France – 11K orders
 
-Top 3 countries with the most customers by dealsize:
+Top 3 countries with the most customers by deal size:
 
   United States
 
@@ -93,6 +93,3 @@ Order fulfilment status:
   1.9% were placed on hold
 
 
- France
-
- Australia

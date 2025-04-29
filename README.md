@@ -22,17 +22,17 @@ Dataset used
 
 ● What is the status of the orders?
 
-**Dashboard page 1**
-<a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-1.png"> Dashboard page 1 </a>
+**Dashboard File**
+<a href ="[https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-1.png](https://github.com/abhishek3852/Sales-dashboard/blob/main/SALES_SAMPLE.pbix)"> Dashboard page 1 </a>
 
-**Dashboard page 2**
-<a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-2.png"> Dashboard page 2 </a>
-
-**Dashboard page 3**
-<a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-3.png"> Dashboard page 3 </a>
 
 Visualisation tool:
 
 Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposition tree, Stacked Bar Chart
+
+**Dashboard**
+![DASH-1](https://github.com/user-attachments/assets/3e42c83e-6cfd-4782-9e16-0dadab96909f)
+![DASH-2](https://github.com/user-attachments/assets/6522a386-4ed9-4d01-8c10-e8fbc603a316)
+![DASH-3](https://github.com/user-attachments/assets/a62ca134-2e61-4974-b81d-a7fc5dbff7b1)
 
 

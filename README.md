@@ -5,31 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="MwWc-oQKAwIH6Sd7oa1t4C2mt9DNtQr_PGwaej3zV7U" />
   <title>Power BI Sales Dashboard Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f7f7f7;
-      color: #333;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #004080;
-    }
-    a {
-      color: #0066cc;
-    }
-    .section {
-      margin-bottom: 30px;
-    }
-    .dashboard-image {
-      max-width: 100%;
-      height: auto;
-      margin-top: 10px;
-      border: 1px solid #ccc;
-      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-    }
-  </style>
 </head>
 <body>
 

@@ -3,12 +3,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="MwWc-oQKAwIH6Sd7oa1t4C2mt9DNtQr_PGwaej3zV7U" />
-  <title>Your Project Title</title>
+  <title>Sales-Dashboard and Forecasting (Interactive dashboard creation by Power BI)</title>
 
 
 <p>
 
-**# Sales-Dashboard and Forecasting (Interactive dashboard creation by Power BI)**
+
 
 I have created an intermediate-level comprehensive dashboard in Power BI using multiple graphs and charts. The dashboard was developed in various stages, including sourcing data from Kaggle, performing data modelling, and generating insights.
 

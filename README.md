@@ -1,105 +1,112 @@
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="google-site-verification" content="MwWc-oQKAwIH6Sd7oa1t4C2mt9DNtQr_PGwaej3zV7U" />
-  <title>Sales-Dashboard and Forecasting (Interactive dashboard creation by Power BI)</title>
-
-
-<p>
-
-
-
-I have created an intermediate-level comprehensive dashboard in Power BI using multiple graphs and charts. The dashboard was developed in various stages, including sourcing data from Kaggle, performing data modelling, and generating insights.
-
-**Project Objective**
-The project aims to strengthen my Power BI skills by working through each stage of dashboard creation. I created this project to learn how to use the advanced chart option and forecast data.
-
-Dataset used
-<a href ="https://github.com/abhishek3852/Sales-dashboard/blob/main/sales_data_sample.csv"> Sample sales data</a>
-
-**Question?**
-
-● What is the number of orders per product line?
-
-● Which country has the highest total sales?
-
-● What are the forecasted sales for the next six months?
-
-● What is the overall sales trend over time?
-
-● Is there a relationship between order volume and the number of customers in each country?
-
-● What is the status of the orders?
-
-**Dashboard File**
-<a href ="[https://github.com/abhishek3852/Sales-dashboard/blob/main/DASH-1.png](https://github.com/abhishek3852/Sales-dashboard/blob/main/SALES_SAMPLE.pbix)"> Dashboard page 1 </a>
-
-
-Visualisation tool:
-
-Pie chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposition tree, Stacked Bar Chart
-
-**Dashboard**
-![DASH-1](https://github.com/user-attachments/assets/3e42c83e-6cfd-4782-9e16-0dadab96909f)
-![DASH-2](https://github.com/user-attachments/assets/6522a386-4ed9-4d01-8c10-e8fbc603a316)
-![DASH-3](https://github.com/user-attachments/assets/a62ca134-2e61-4974-b81d-a7fc5dbff7b1)
-
-
-**Project Insights**
-
-Top 3 most ordered products:
-
-  Classic Cars-   12.1K
-
-  Vintage Cars - 8.1K
-
-  Motorcycles - 5.1K
-
-Peak sales month:
-
-Sales peaked in November, indicating strong seasonality.
-
-Most sold product:
-
-Classic Cars had the highest number of sales overall of 3.92 million.
-
-Forecasted sales for the next six months (in units/currency):
-
-  Month 1: 379,328.72
-
-  Month 2: 409,898.39
-
-  Month 3: 485,743.11
-
-  Month 4: 438,794.06
-
-  Month 5: 706,982.86
-
-Month 6: 1,209,498.52
-
-Top 3 countries by number of orders:
-
-  United States – 36K orders
-
-  Spain – 12K orders
-
-  France – 11K orders
-
-Top 3 countries with the most customers by deal size:
-
-  United States
-
-  France
-
-  Australia
-
-Order fulfilment status:
-
-  92.3% of orders were shipped
-
-  2.1% were cancelled
-
-  1.9% were placed on hold
-</p>
+  <title>Power BI Sales Dashboard Project</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f7f7f7;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    a {
+      color: #0066cc;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .dashboard-image {
+      max-width: 100%;
+      height: auto;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    }
+  </style>
 </head>
+<body>
+
+  <h1>Power BI Sales Dashboard Project</h1>
+
+  <div class="section">
+    <p>I have created an intermediate-level comprehensive dashboard in Power BI using multiple graphs and charts. The dashboard was developed in various stages, including sourcing data from Kaggle, performing data modelling, and generating insights.</p>
+  </div>
+
+  <div class="section">
+    <h2>Project Objective</h2>
+    <p>The project aims to strengthen my Power BI skills by working through each stage of dashboard creation. I created this project to learn how to use the advanced chart options and forecast data.</p>
+  </div>
+
+  <div class="section">
+    <h2>Dataset Used</h2>
+    <p>
+      <a href="https://github.com/abhishek3852/Sales-dashboard/blob/main/sales_data_sample.csv" target="_blank">
+        Sample sales data (CSV)
+      </a>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Business Questions</h2>
+    <ul>
+      <li>What is the number of orders per product line?</li>
+      <li>Which country has the highest total sales?</li>
+      <li>What are the forecasted sales for the next six months?</li>
+      <li>What is the overall sales trend over time?</li>
+      <li>Is there a relationship between order volume and the number of customers in each country?</li>
+      <li>What is the status of the orders?</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Dashboard File</h2>
+    <p>
+      <a href="https://github.com/abhishek3852/Sales-dashboard/blob/main/SALES_SAMPLE.pbix" target="_blank">
+        Download Dashboard (.pbix)
+      </a>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Visualisation Tools Used</h2>
+    <p>Pie Chart, Bar Chart, Treemap, Map, Cards, Slicer, Funnel, Line Chart, Decomposition Tree, Stacked Bar Chart</p>
+  </div>
+
+  <div class="section">
+    <h2>Dashboard Screenshots</h2>
+    <img class="dashboard-image" src="https://github.com/user-attachments/assets/3e42c83e-6cfd-4782-9e16-0dadab96909f" alt="Dashboard Page 1" />
+    <img class="dashboard-image" src="https://github.com/user-attachments/assets/6522a386-4ed9-4d01-8c10-e8fbc603a316" alt="Dashboard Page 2" />
+    <img class="dashboard-image" src="https://github.com/user-attachments/assets/a62ca134-2e61-4974-b81d-a7fc5dbff7b1" alt="Dashboard Page 3" />
+  </div>
+
+  <div class="section">
+    <h2>Project Insights</h2>
+    <ul>
+      <li><strong>Top 3 most ordered products:</strong> Classic Cars – 12.1K, Vintage Cars – 8.1K, Motorcycles – 5.1K</li>
+      <li><strong>Peak sales month:</strong> November, indicating strong seasonality</li>
+      <li><strong>Most sold product:</strong> Classic Cars – $3.92 million in total sales</li>
+      <li><strong>Forecasted Sales (next 6 months):</strong>
+        <ul>
+          <li>Month 1: 379,328.72</li>
+          <li>Month 2: 409,898.39</li>
+          <li>Month 3: 485,743.11</li>
+          <li>Month 4: 438,794.06</li>
+          <li>Month 5: 706,982.86</li>
+          <li>Month 6: 1,209,498.52</li>
+        </ul>
+      </li>
+      <li><strong>Top 3 countries by orders:</strong> United States – 36K, Spain – 12K, France – 11K</li>
+      <li><strong>Top countries by deal size:</strong> United States, France, Australia</li>
+      <li><strong>Order status:</strong> 92.3% shipped, 2.1% cancelled, 1.9% on hold</li>
+    </ul>
+  </div>
+
+</body>
+</html>
